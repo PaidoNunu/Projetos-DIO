@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\aluiz\\OneDrive\\Documentos\\Git\\Projetos-DIO\\Projetos-DecolaTech\\Projetos-DecolaTech.csproj",
-      "projectName": "Projetos-DecolaTech",
-      "projectPath": "C:\\Users\\aluiz\\OneDrive\\Documentos\\Git\\Projetos-DIO\\Projetos-DecolaTech\\Projetos-DecolaTech.csproj",
+      "projectUniqueName": "C:\\Users\\aluiz\\OneDrive\\Documentos\\Git\\Projetos-DIO\\Projetos-DecolaTech\\Projeto-Estacionamento\\Projeto-Estacionamento.csproj",
+      "projectName": "Projeto-Estacionamento",
+      "projectPath": "C:\\Users\\aluiz\\OneDrive\\Documentos\\Git\\Projetos-DIO\\Projetos-DecolaTech\\Projeto-Estacionamento\\Projeto-Estacionamento.csproj",
       "packagesPath": "C:\\Users\\aluiz\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\aluiz\\OneDrive\\Documentos\\Git\\Projetos-DIO\\Projetos-DecolaTech\\obj\\",
+      "outputPath": "C:\\Users\\aluiz\\OneDrive\\Documentos\\Git\\Projetos-DIO\\Projetos-DecolaTech\\Projeto-Estacionamento\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\aluiz\\AppData\\Roaming\\NuGet\\NuGet.Config"
