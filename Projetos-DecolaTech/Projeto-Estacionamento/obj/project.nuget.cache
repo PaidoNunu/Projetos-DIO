@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "AGt542g1YBKC8aMrLhWL1vGAGiTxdlyvMAP+tP1C7dKdclaF/vv3GYjEGYLQpdqaAGeoOKLOPUqGRKFXl8Nssg==",
+  "dgSpecHash": "d9banX+4YD/q+pLJlZ+8MbGl/UCbOroYIl/qdL8oUD5EJWiQ1iuMRGz/PZGDV26bs1RKO6iNLU5B6d6rwrihVw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\aluiz\\OneDrive\\Documentos\\Git\\Projetos-DIO\\Projetos-DecolaTech\\Projeto-Estacionamento\\Projeto-Estacionamento.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\aluiz\\OneDrive\\Documentos\\Git\\Projetos-DIO\\Projetos-DecolaTech\\Projeto-Estacionamento\\DesafioFundamentos.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\aluiz\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\aluiz\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\aluiz\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\aluiz\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
   "logs": []
 }
